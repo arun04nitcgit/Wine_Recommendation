@@ -1,6 +1,6 @@
 # Wine_Recommendation
 
-# countryThe country that the wine is from
+## countryThe country that the wine is from
 
 # descriptionA few sentences from a sommelier describing the wine's taste, smell, look, feel, etc.
 
